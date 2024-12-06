@@ -230,7 +230,7 @@ void main() {
     imprimePilha(topo);
 
     /*
-      Para a execução 
+      Para a execução (testing pr) 
     */
     system("pause");
 }
